@@ -6,8 +6,9 @@
 <strong>Install with:</strong> {composer require command}											<br />
 <strong>Change log url:</strong> {url}																<br />
 
-<p><h3>1. Actual situation</h3></p>																	<br />
-<hr>
+<
+<p><h3>1. Actual situation</h3>																<br />
+<hr></p>
 Why do we use this plugin? How should it work / whats the current situation on live store?
 Screenshot?
 
