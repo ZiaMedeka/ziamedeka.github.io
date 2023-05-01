@@ -1,10 +1,10 @@
 [https://ziamedeka.github.io/test/index.html]
-<strong>Version number:<strong> 							
-<strong>Download from:</strong> {url where you can download package}
-<strong>Install with:</strong> {composer require command}
-<strong>Change log url:</strong> {url}
+<strong>Version number:<strong> 																	<br />
+<strong>Download from:</strong> {url where you can download package}								<br />
+<strong>Install with:</strong> {composer require command}											<br />
+<strong>Change log url:</strong> {url}																<br />
 
-<h3>1. Actual situation</h3>
+<p><h3>1. Actual situation</h3></p>																	<br />
 ----------------------------------
 Why do we use this plugin? How should it work / whats the current situation on live store?
 Screenshot?
