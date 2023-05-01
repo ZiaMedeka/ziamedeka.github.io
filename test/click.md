@@ -1,14 +1,52 @@
 [https://ziamedeka.github.io/test/index.html]
-<html>
-  <body bgcolor="red">
-    <h2>HIIIII</h2>
-    <p>zia</p>
-    <strong>Elmer</strong>
-    <li>why</li>
-    <li>so</li>
-    <li>HI</li>
-    <span style="padding:20px">test</span>
-    </body>
-  </html>
-  
-  
+<strong>Version number:<strong> 							
+<strong>Download from:</strong> {url where you can download package}
+<strong>Install with:</strong> {composer require command}
+<strong>Change log url:</strong> {url}
+
+<h3>1. Actual situation</h3>
+----------------------------------
+Why do we use this plugin? How should it work / whats the current situation on live store?
+Screenshot?
+
+
+<h3>2. Steps to install / update</h3>
+----------------------------------
+1. Remove extension from ..
+2. Composer require ..
+
+
+<h3>3. Tests to make</h3>
+----------------------------------
+Register as new customer and check if cron is running
+1: Check if you get an email with coupon code
+2: Check if you can use this coupon code in checkout
+
+
+<h3>4. Results<h3>
+------------------------------------
+Important: check 3 first:
+	ssh: bin/magento cron:run
+
+1: Done!
+2: Wrong language
+
+
+<h3>5. Needed Fixes</h3>
+------------------------------------
+File changes: app/design .. .csv
+Configuration changes: n/a
+
+
+<h3>6. Final Results</h3>
+------------------------------------
+1: Done!
+2: Done
+Screenshots?
+
+
+<h3>7. Pull request includes</h3>
+----------------------------------
+1. Removal of app/code/...
+2. Composer require command 
+3. Changed file app/design .. .csv
