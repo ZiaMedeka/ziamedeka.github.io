@@ -1,0 +1,29 @@
+Amasty Special Occasion Coupons-1.0.8
+
+Points To Test
+----------------------------------
+Register as new customer
+1- Check if you get an email with coupon code
+2- Check if you can use this coupon code in checkout
+3- Check if cron is runing
+
+
+
+Results
+------------------------------------
+Important: check 3 first:
+	ssh: bin/magento cron:run
+
+1- Done!
+2- Done!
+3- Done!
+
+
+
+
+Needed Fixes
+------------------------------------
+
+Final Results
+------------------------------------
+

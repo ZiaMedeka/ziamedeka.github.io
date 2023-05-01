@@ -1,0 +1,38 @@
+Easy catalog images-1.4.23
+Points To Test
+----------------------------------------------------------------------------------------
+1-check categories to see if the images showing correctly?
+2-check the categories name to see if font and posision is correct compare to live?
+
+
+Results
+---------------------------------------------------------------------------------------
+Images load correctly
+!Texts appear above the Images!
+!Texts Are Not Bold! 
+	fix: edit list.phtml file this way:
+		   </div>
+            <?php elseif ($block->getParentCategoryPosition() === 'top'): ?>
+                <div class="category-name parent-category parent-category">       //it was 'parent-category-top'
+                    <a href="<?= $block->getCategoryUrl($_category) ?>" title="<?= $block->escapeHtml($_category->getName()) ?>">
+                        <?= $block->escapeHtml($_category->getName()) ?>
+                    </a>
+------------------------------------------------------------------------------------------------------------------------------------\
+1- done!
+2- done!
+
+
+
+
+
+
+
+
+
+ Needed Fixes
+-------------
+
+Final Results
+---------------
+
+
