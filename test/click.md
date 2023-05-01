@@ -1,4 +1,6 @@
-[https://ziamedeka.github.io/test/index.html]
+<p>[https://ziamedeka.github.io/test/index.html]</p>
+
+
 <strong>Version number:<strong> 																	<br />
 <strong>Download from:</strong> {url where you can download package}								<br />
 <strong>Install with:</strong> {composer require command}											<br />
