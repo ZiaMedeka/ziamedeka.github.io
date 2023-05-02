@@ -1,0 +1,40 @@
+version number: V1.11.4
+Change log url: https://docs.swissuplabs.com/m2/extensions/easytabs/changelog/
+
+1. Actual situation
+----------------------------------
+This extension add information tab under products. working fine on live. screenshot "1.jpeg" points to live situation of extension.
+
+2. Steps to install / update
+----------------------------------
+a. sign in to https://marketplace.magento.com/
+b. search in searchbar look for 'easy tabs'
+c. select easy tabs and purches it.{Direct url: https://marketplace.magento.com/swissup-easytabs.html}
+d. rm -rf app/code/Swissup/easytabs
+e. ssh--> composer require swissup/module-marketplace -vvv
+f. ssh--> composer require swissup/easytabs:v1.11.4 -vvv
+c. ssh--> bin/magento s:upg
+
+3. Tests to make
+----------------------------------
+a. Copmaire 5 different products in live and local. no difference should be there.
+
+
+4. Results
+------------------------------------
+a. Done!
+
+5. Needed Fixes
+------------------------------------
+
+
+6. Final Results
+------------------------------------
+
+
+7. Pull request includes
+----------------------------------
+. Removal of app/code/Swissup/EasyTabs
+. composer require swissup/module-marketplace -vvv
+. composer require swissup/easytabs:v1.11.4 -vvv
+. changed composer.jason And composer.lock file
