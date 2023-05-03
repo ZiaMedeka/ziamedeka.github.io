@@ -1,5 +1,5 @@
 
-<strong>Version number:<strong><br>								
+<strong>Version number:</strong><br>								
 <strong>Change log url:</strong> {url}
 
 	
