@@ -3,7 +3,7 @@
 
 	
 <h3>1. Actual situation </h3> <hr />	
-
+{add actual situation here}
 <h3>2. Steps to install / update</h3> <hr>
 <li>Step 1 </li>
 <li>Step 2 </li>
