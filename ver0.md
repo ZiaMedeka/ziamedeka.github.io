@@ -22,8 +22,8 @@
 <h3>4. Results</h3><hr> <br />
 
 <strong>a: Visual:</strong> <br />
-{copy a-1} - <a href="">after 1</a> - Done!	<br />
-{copy a-2} - <a href="">after 2</a>	<br />
+{copy a-1} - <a href="">after 1</a> - Done! or Difference!	<br />
+{copy a-2} - <a href="">after 2</a> - Done! or Difference!	<br />
 
 <strong>b: Functional:</strong> <br />
 1: Done! <br />
