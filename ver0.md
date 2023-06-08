@@ -19,7 +19,7 @@
 <a href="">before 3</a> - description <br />	
 <a href="">before 4</a> - description <br />	
 
-<strong>b: Functional:</strong> check for extension functionality with follwing steps: <br />
+<strong>b: Functional:</strong> check for extension functionality with following steps: <br />
 1: 1 selection <br />
 2: multiple attribue selection <br />
 3: multiple selection within one attribute <br />
