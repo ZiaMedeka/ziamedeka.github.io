@@ -20,11 +20,11 @@
 <a href="">before 4</a> - description <br />	
 
 <strong>b: Functional:</strong> check for extension functionality with following steps: <br />
-1: 1 selection <br />
-2: multiple attribue selection <br />
-3: multiple selection within one attribute <br />
-4: unselect options with 'x' <br />
-5: unselect options with 'reset' button <br />
+1: Functional Test 1 <br />
+2: Functional Test 2 <br />
+3: Functional Test 3 <br />
+4: Functional Test 4 <br />
+5: Functional Test 5 <br />
 
 
 <h3>4. Results</h3><hr> <br />
