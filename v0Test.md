@@ -1,7 +1,7 @@
 
 <strong>Version number: </strong><br />								
 <strong>Change log url:</strong> {url}
-
+<li class="item">Use vertical and horizontal navigation blocks</li>
 	
 <h3>1. Actual situation </h3> <hr />									
 Why do we use this plugin? How should it work / whats the current situation on live store?
