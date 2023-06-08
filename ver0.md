@@ -29,7 +29,7 @@
 
 <h3>4. Results</h3><hr> <br />
 
-<strong>a: Visual:</strong> 
+<strong>a: Visual:</strong> <br />
 Done! <a href="">after 1</a>	<br />
 Done! <a href="">after 2</a>	<br />
 Done! <a href="">after 3</a>    <br />
