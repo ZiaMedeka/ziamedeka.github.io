@@ -27,7 +27,7 @@
 5: unselect options with 'reset' button <br />
 
 
-<h3>4. Results</h3><hr>
+<h3>4. Results</h3><hr> <br />
 
 <strong>a: Visual:</strong> 
 Done! <a href="">after 1</a>	<br />
@@ -35,7 +35,7 @@ Done! <a href="">after 2</a>	<br />
 Done! <a href="">after 3</a>    <br />
 Done! <a href="">after 4</a>	<br />
 
-<strong>b: Functional:</strong>
+<strong>b: Functional:</strong> <br />
 1: Done! <br />
 2: Done! <br />
 3: Done! <br />
