@@ -1,4 +1,11 @@
-
+hr {
+  border: none;
+  border-top: 1px dotted #f00;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 50%;
+}
 <strong>Version number: </strong><br />								
 <strong>Change log url:</strong> {url}
 <li class="item">Use vertical and horizontal navigation blocks</li>
