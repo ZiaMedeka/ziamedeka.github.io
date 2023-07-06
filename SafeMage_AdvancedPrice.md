@@ -36,15 +36,16 @@ check again<br /><br />
 --! No Visual !--
 
 <strong>b: Functional:</strong> <br />
-1: Done! <br />
-2: Done! <br />
+1-1: Done! <br />
+1-2: Done! <br />
+2-1: Done! <br />
+2-2: Done! <br />
+2-3: Done! <br />
+2-4: Done! <br />
 
 <h3>5. Needed Fixes</h3> <hr>
 
 <h3>6. Final Results </h3> <hr>
 
 <h3>7. Pull request includes</h3> <hr>
-
-<li>Removal of ... </li>
-<li>Composer require command </li>
-<li>Changed file app/design ... </li>
+---
