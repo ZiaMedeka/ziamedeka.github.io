@@ -14,13 +14,13 @@ Formula: Cost USD / Redemption Rate * Transport and storage * Import * Profit = 
 <strong>a: Visual:</strong> <br />
 --! No Visual !-- <br />
 	
-<strong>b: Functional:</strong> check for extension functionality with following steps: <br />
+<strong>b: Functional:</strong> check for extension functionality with following steps: <br /><br />
 1: Check in product view if price is calculated the right way when you change one of 5 price attributes.<br />
 1-1: Is price in backend right?<br />
 1-2: Is price in frontend right (including tax)<br /><br />
 
 2: Check product grid if price is calculated the right way when you change one of 5 price attributes. <br />
-<p>		Actions > Update attributes</p>
+Actions > Update attributes
 
 <h3>4. Results</h3><hr> <br />
 
