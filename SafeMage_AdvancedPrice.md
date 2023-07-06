@@ -23,7 +23,13 @@ Formula: Cost USD / Redemption Rate * Transport and storage * Import * Profit = 
 <b>Tip:</b> check system > bulk actions status (cron has to run) When it has status 'Finished successfully  <br />
 2-1: Is price in backend right?<br />
 2-2: Is price in frontend right (including tax)<br />
-2-3: Is arttribute changed<br /><br />
+2-3: Is arttribute changed<br />
+2-4: Try multiple changes on 2 products in same time (select two products)<br /><br />
+
+<b>TIPS:</b> when status does not go to successfully, and cron is running, go to stores > config > advanced > system > Cron configuration options for group: consumers > change Use Separate Process Yes / No <br />
+flush cache<br />
+wait for the cron<br />
+check again<br /><br />
 <h3>4. Results</h3><hr> <br />
 
 <strong>a: Visual:</strong> <br />
