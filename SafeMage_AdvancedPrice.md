@@ -1,5 +1,5 @@
 <strong>Version number:</strong> ---<br />								
-<strong>Change log url:</strong> --- {url}
+<strong>Change log url:</strong> --- 
 
 	
 <h3>1. Actual situation </h3> <hr />	
